@@ -1,3 +1,3 @@
-# 100DaysOfCode
-Welcome to 100 days of code repository 
-I will be spending 100 days coding and documenting my progress all the way.
+# Namaste Javascript
+Welcome to Namaste Javascript repository 
+Everything i learnt in Namaste Javascript will be posted here
